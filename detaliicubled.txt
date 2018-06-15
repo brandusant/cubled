@@ -1,0 +1,8 @@
+Placa de dezvoltare Arduino Uno R3
+64 LED-uri
+4 rezistente (de 100 Ohm sau 120 Ohm)
+16 rezistente de 220 Ohm
+Sursa de alimentare de 9V
+Optional 4x NPN Tranzistoare (2N2222, BC547 sau 2N3904)
+Placa Breadboard
+Fire de legatura
